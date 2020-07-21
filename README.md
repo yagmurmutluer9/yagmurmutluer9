@@ -1,5 +1,5 @@
 [![Medium](https://img.shields.io/badge/Medium-yagmurmutluer-green?style=flat-square&logo=medium)](https://medium.com/@yagmurmutluer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yagmurmutluer-red?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yagmur-mutluer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yagmurmutluer-red?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yağmur-mutluer/)
 
 ![anime writing code](https://github.com/yagmurmutluer9/yagmur-mutluer/blob/master/original.gif)
 

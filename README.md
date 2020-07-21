@@ -1,7 +1,7 @@
 ![anime writing code](https://github.com/yagmurmutluer9/yagmur-mutluer/blob/master/original.gif)
 
-
-☂  Hello from the planet named Earth in the nested simulation universe!
+Hello from the planet named Earth in the nested simulation universe!
+ ![space](https://github.com/yagmurmutluer9/yagmurmutluer9/blob/master/mini-graphics-aliens-and-space-166527.gif)  
 
 💣 I am studying computer engineering and I believe that this learning will be my whole life.
 

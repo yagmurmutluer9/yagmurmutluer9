@@ -10,9 +10,11 @@ Hello from the planet named Earth in the nested simulation universe!
 
 ⚙ Currently running a project using Node.JS
 
-🌈 My interests are NLP, ML and I want to work in these fields in the future.
+🌈 My interests are NLP, web & mobile development and I want to work in these fields in the future.
 
 👓 When I don't code, my fingers can't stay away from the keyboard, writing about life is my hobby!
+
+
 
 
 

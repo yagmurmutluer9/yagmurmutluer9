@@ -1,6 +1,6 @@
 [![Medium](https://img.shields.io/badge/Medium-yagmurmutluer-green?style=flat-square&logo=medium)](https://medium.com/@yagmurmutluer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yagmurmutluer-red?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yağmur-mutluer/)
-![scores](https://gitwar.herokuapp.com/badge?username=yagmurmutluer9&color=blueviolet)
+[![Visits Badge](https://badges.pufler.dev/visits/yagmurmutluer9/yagmurmutluer9)]
 
 ![anime writing code](https://github.com/yagmurmutluer9/yagmur-mutluer/blob/master/original.gif)
 

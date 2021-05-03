@@ -1,6 +1,4 @@
-[![Medium](https://img.shields.io/badge/Medium-yagmurmutluer-green?style=flat-square&logo=medium)](https://medium.com/@yagmurmutluer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yagmurmutluer-red?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yağmur-mutluer/)
-[![Visits Badge](https://badges.pufler.dev/visits/yagmurmutluer9/yagmurmutluer9)]
+
 
 
 
@@ -15,6 +13,7 @@
   <br>
   <samp> <a href="https://medium.com/@yagmurmutluer">Medium</a> </samp>
  <samp> <a href="https://www.linkedin.com/in/yağmur-mutluer"> Linkedin</a> </samp>
+
  </p>
 
 ------------

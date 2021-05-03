@@ -15,9 +15,7 @@
   <br>
   <samp> <a href="https://medium.com/@yagmurmutluer">Medium</a> </samp>
  <samp> <a href="https://www.linkedin.com/in/yağmur-mutluer"> Linkedin</a> </samp>
- <br>
-  <img src="https://github.com/yagmurmutluer9/yagmurmutluer9/blob/master/raining.gif" width="250" />
-</p>
+ </p>
 
 ------------
 <p align="center">⭐️ From <a href="https://github.com/yagmurmutluer9">@yagmurmutluer9</a></p>

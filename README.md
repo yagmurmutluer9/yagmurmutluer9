@@ -6,7 +6,7 @@
   <br>
   <br>
   <br>
- <samp>Hello there. I'm <a href="https://yagmurmutluer9.github.io">Yağmur</a>.<br> I'm a Software Developer from Turkey.<br><br>#javascript, #reactjs, #vuejs, #androiddev</samp>
+ <samp>Hello there. I'm Yağmur</a>.<br> I'm a Software Developer from Turkey.<br><br>#javascript, #reactjs, #vuejs, #androiddev</samp>
   <br>
   <br>
   <br>
